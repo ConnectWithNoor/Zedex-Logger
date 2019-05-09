@@ -41,9 +41,9 @@ from apscheduler.schedulers.background import BackgroundScheduler
 global file_path
 
 ##    USER SETTINGS    ##
-your_email = 'desibotel@gmail.com'
-your_email_pass = 'nofwsuarpzmmthiq'
-email_send_to = "connectwithnoor1@gmail.com"
+your_email = '###'
+your_email_pass = '###'
+email_send_to = "###"
 email_time_interval = 22       #Time to wait before sending data to email (in seconds)
 screenshot_time_interval = 5   #seconds
 
